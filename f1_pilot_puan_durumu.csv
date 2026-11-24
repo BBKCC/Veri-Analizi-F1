@@ -12232,7 +12232,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 22758,483,110,0.0,24,24,0,Andrea,de Cesaris,Italian,,1981,1,United States Grand Prix West
 22759,483,214,0.0,25,25,0,Kevin,Cogan,American,,1981,1,United States Grand Prix West
 22760,483,206,0.0,26,26,0,Derek,Daly,Irish,,1981,1,United States Grand Prix West
-22761,483,215,0.0,27,27,0,Miguel Ángel,Guerra,Argentine,,1981,1,United States Grand Prix West
+22761,483,215,0.0,27,27,0,Miguel Þngel,Guerra,Argentine,,1981,1,United States Grand Prix West
 22762,483,216,0.0,28,28,0,Siegfried,Stohr,Italian,,1981,1,United States Grand Prix West
 22763,483,194,0.0,29,29,0,Eliseo,Salazar,Chilean,,1981,1,United States Grand Prix West
 22764,484,178,15.0,1,1,1,Alan,Jones,Australian,,1981,2,Brazilian Grand Prix
@@ -12261,7 +12261,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 22787,484,110,0.0,26,26,0,Andrea,de Cesaris,Italian,,1981,2,Brazilian Grand Prix
 22788,484,214,0.0,27,27,0,Kevin,Cogan,American,,1981,2,Brazilian Grand Prix
 22789,484,206,0.0,28,28,0,Derek,Daly,Irish,,1981,2,Brazilian Grand Prix
-22790,484,215,0.0,29,29,0,Miguel Ángel,Guerra,Argentine,,1981,2,Brazilian Grand Prix
+22790,484,215,0.0,29,29,0,Miguel Þngel,Guerra,Argentine,,1981,2,Brazilian Grand Prix
 22791,484,216,0.0,25,25,0,Siegfried,Stohr,Italian,,1981,2,Brazilian Grand Prix
 22792,484,194,0.0,30,30,0,Eliseo,Salazar,Chilean,,1981,2,Brazilian Grand Prix
 22793,484,217,0.0,17,17,0,Ricardo,Zunino,Argentine,,1981,2,Brazilian Grand Prix
@@ -12292,7 +12292,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 22818,485,110,0.0,20,20,0,Andrea,de Cesaris,Italian,,1981,3,Argentine Grand Prix
 22819,485,214,0.0,28,28,0,Kevin,Cogan,American,,1981,3,Argentine Grand Prix
 22820,485,206,0.0,29,29,0,Derek,Daly,Irish,,1981,3,Argentine Grand Prix
-22821,485,215,0.0,27,27,0,Miguel Ángel,Guerra,Argentine,,1981,3,Argentine Grand Prix
+22821,485,215,0.0,27,27,0,Miguel Þngel,Guerra,Argentine,,1981,3,Argentine Grand Prix
 22822,485,216,0.0,17,17,0,Siegfried,Stohr,Italian,,1981,3,Argentine Grand Prix
 22823,485,194,0.0,30,30,0,Eliseo,Salazar,Chilean,,1981,3,Argentine Grand Prix
 22824,485,217,0.0,22,22,0,Ricardo,Zunino,Argentine,,1981,3,Argentine Grand Prix
@@ -12324,7 +12324,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 22850,486,110,1.0,14,14,0,Andrea,de Cesaris,Italian,,1981,4,San Marino Grand Prix
 22851,486,214,0.0,32,32,0,Kevin,Cogan,American,,1981,4,San Marino Grand Prix
 22852,486,206,0.0,33,33,0,Derek,Daly,Irish,,1981,4,San Marino Grand Prix
-22853,486,215,0.0,31,31,0,Miguel Ángel,Guerra,Argentine,,1981,4,San Marino Grand Prix
+22853,486,215,0.0,31,31,0,Miguel Þngel,Guerra,Argentine,,1981,4,San Marino Grand Prix
 22854,486,216,0.0,21,21,0,Siegfried,Stohr,Italian,,1981,4,San Marino Grand Prix
 22855,486,194,0.0,28,28,0,Eliseo,Salazar,Chilean,,1981,4,San Marino Grand Prix
 22856,486,217,0.0,25,25,0,Ricardo,Zunino,Argentine,,1981,4,San Marino Grand Prix
@@ -12360,7 +12360,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 22886,487,110,1.0,17,17,0,Andrea,de Cesaris,Italian,,1981,5,Belgian Grand Prix
 22887,487,214,0.0,34,34,0,Kevin,Cogan,American,,1981,5,Belgian Grand Prix
 22888,487,206,0.0,33,33,0,Derek,Daly,Irish,,1981,5,Belgian Grand Prix
-22889,487,215,0.0,32,32,0,Miguel Ángel,Guerra,Argentine,,1981,5,Belgian Grand Prix
+22889,487,215,0.0,32,32,0,Miguel Þngel,Guerra,Argentine,,1981,5,Belgian Grand Prix
 22890,487,216,0.0,23,23,0,Siegfried,Stohr,Italian,,1981,5,Belgian Grand Prix
 22891,487,194,0.0,30,30,0,Eliseo,Salazar,Chilean,,1981,5,Belgian Grand Prix
 22892,487,217,0.0,26,26,0,Ricardo,Zunino,Argentine,,1981,5,Belgian Grand Prix
@@ -12397,7 +12397,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 22923,488,110,1.0,17,17,0,Andrea,de Cesaris,Italian,,1981,6,Monaco Grand Prix
 22924,488,214,0.0,34,34,0,Kevin,Cogan,American,,1981,6,Monaco Grand Prix
 22925,488,206,0.0,33,33,0,Derek,Daly,Irish,,1981,6,Monaco Grand Prix
-22926,488,215,0.0,32,32,0,Miguel Ángel,Guerra,Argentine,,1981,6,Monaco Grand Prix
+22926,488,215,0.0,32,32,0,Miguel Þngel,Guerra,Argentine,,1981,6,Monaco Grand Prix
 22927,488,216,0.0,23,23,0,Siegfried,Stohr,Italian,,1981,6,Monaco Grand Prix
 22928,488,194,0.0,30,30,0,Eliseo,Salazar,Chilean,,1981,6,Monaco Grand Prix
 22929,488,217,0.0,26,26,0,Ricardo,Zunino,Argentine,,1981,6,Monaco Grand Prix
@@ -12434,7 +12434,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 22960,489,110,1.0,18,18,0,Andrea,de Cesaris,Italian,,1981,7,Spanish Grand Prix
 22961,489,214,0.0,34,34,0,Kevin,Cogan,American,,1981,7,Spanish Grand Prix
 22962,489,206,0.0,30,30,0,Derek,Daly,Irish,,1981,7,Spanish Grand Prix
-22963,489,215,0.0,33,33,0,Miguel Ángel,Guerra,Argentine,,1981,7,Spanish Grand Prix
+22963,489,215,0.0,33,33,0,Miguel Þngel,Guerra,Argentine,,1981,7,Spanish Grand Prix
 22964,489,216,0.0,23,23,0,Siegfried,Stohr,Italian,,1981,7,Spanish Grand Prix
 22965,489,194,0.0,29,29,0,Eliseo,Salazar,Chilean,,1981,7,Spanish Grand Prix
 22966,489,217,0.0,26,26,0,Ricardo,Zunino,Argentine,,1981,7,Spanish Grand Prix
@@ -12472,7 +12472,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 22998,490,110,1.0,18,18,0,Andrea,de Cesaris,Italian,,1981,8,French Grand Prix
 22999,490,214,0.0,34,34,0,Kevin,Cogan,American,,1981,8,French Grand Prix
 23000,490,206,0.0,30,30,0,Derek,Daly,Irish,,1981,8,French Grand Prix
-23001,490,215,0.0,33,33,0,Miguel Ángel,Guerra,Argentine,,1981,8,French Grand Prix
+23001,490,215,0.0,33,33,0,Miguel Þngel,Guerra,Argentine,,1981,8,French Grand Prix
 23002,490,216,0.0,23,23,0,Siegfried,Stohr,Italian,,1981,8,French Grand Prix
 23003,490,194,0.0,29,29,0,Eliseo,Salazar,Chilean,,1981,8,French Grand Prix
 23004,490,217,0.0,26,26,0,Ricardo,Zunino,Argentine,,1981,8,French Grand Prix
@@ -12510,7 +12510,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 23036,491,110,1.0,18,18,0,Andrea,de Cesaris,Italian,,1981,9,British Grand Prix
 23037,491,214,0.0,34,34,0,Kevin,Cogan,American,,1981,9,British Grand Prix
 23038,491,206,0.0,22,22,0,Derek,Daly,Irish,,1981,9,British Grand Prix
-23039,491,215,0.0,33,33,0,Miguel Ángel,Guerra,Argentine,,1981,9,British Grand Prix
+23039,491,215,0.0,33,33,0,Miguel Þngel,Guerra,Argentine,,1981,9,British Grand Prix
 23040,491,216,0.0,25,25,0,Siegfried,Stohr,Italian,,1981,9,British Grand Prix
 23041,491,194,0.0,30,30,0,Eliseo,Salazar,Chilean,,1981,9,British Grand Prix
 23042,491,217,0.0,28,28,0,Ricardo,Zunino,Argentine,,1981,9,British Grand Prix
@@ -12548,7 +12548,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 23092,492,207,3.0,16,16,0,Mario,Andretti,American,,1981,10,German Grand Prix
 23090,492,199,43.0,1,1,2,Carlos,Reutemann,Argentine,,1981,10,German Grand Prix
 23123,492,118,0.0,36,36,0,Derek,Warwick,British,,1981,10,German Grand Prix
-23115,492,215,0.0,33,33,0,Miguel Ángel,Guerra,Argentine,,1981,10,German Grand Prix
+23115,492,215,0.0,33,33,0,Miguel Þngel,Guerra,Argentine,,1981,10,German Grand Prix
 23113,492,214,0.0,34,34,0,Kevin,Cogan,American,,1981,10,German Grand Prix
 23109,492,187,20.0,6,6,1,John,Watson,British,,1981,10,German Grand Prix
 23126,492,220,0.0,37,37,0,Giorgio,Francia,Italian,,1981,10,German Grand Prix
@@ -12586,7 +12586,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 23150,493,110,1.0,18,18,0,Andrea,de Cesaris,Italian,,1981,11,Austrian Grand Prix
 23151,493,214,0.0,34,34,0,Kevin,Cogan,American,,1981,11,Austrian Grand Prix
 23152,493,206,0.0,21,21,0,Derek,Daly,Irish,,1981,11,Austrian Grand Prix
-23153,493,215,0.0,33,33,0,Miguel Ángel,Guerra,Argentine,,1981,11,Austrian Grand Prix
+23153,493,215,0.0,33,33,0,Miguel Þngel,Guerra,Argentine,,1981,11,Austrian Grand Prix
 23154,493,216,0.0,25,25,0,Siegfried,Stohr,Italian,,1981,11,Austrian Grand Prix
 23155,493,194,0.0,30,30,0,Eliseo,Salazar,Chilean,,1981,11,Austrian Grand Prix
 23156,493,217,0.0,28,28,0,Ricardo,Zunino,Argentine,,1981,11,Austrian Grand Prix
@@ -12624,7 +12624,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 23188,494,110,1.0,18,18,0,Andrea,de Cesaris,Italian,,1981,12,Dutch Grand Prix
 23189,494,214,0.0,34,34,0,Kevin,Cogan,American,,1981,12,Dutch Grand Prix
 23190,494,206,0.0,23,23,0,Derek,Daly,Irish,,1981,12,Dutch Grand Prix
-23191,494,215,0.0,33,33,0,Miguel Ángel,Guerra,Argentine,,1981,12,Dutch Grand Prix
+23191,494,215,0.0,33,33,0,Miguel Þngel,Guerra,Argentine,,1981,12,Dutch Grand Prix
 23192,494,216,0.0,22,22,0,Siegfried,Stohr,Italian,,1981,12,Dutch Grand Prix
 23193,494,194,1.0,20,20,0,Eliseo,Salazar,Chilean,,1981,12,Dutch Grand Prix
 23194,494,217,0.0,29,29,0,Ricardo,Zunino,Argentine,,1981,12,Dutch Grand Prix
@@ -12662,7 +12662,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 23226,495,110,1.0,17,17,0,Andrea,de Cesaris,Italian,,1981,13,Italian Grand Prix
 23227,495,214,0.0,35,35,0,Kevin,Cogan,American,,1981,13,Italian Grand Prix
 23228,495,206,0.0,23,23,0,Derek,Daly,Irish,,1981,13,Italian Grand Prix
-23229,495,215,0.0,34,34,0,Miguel Ángel,Guerra,Argentine,,1981,13,Italian Grand Prix
+23229,495,215,0.0,34,34,0,Miguel Þngel,Guerra,Argentine,,1981,13,Italian Grand Prix
 23230,495,216,0.0,22,22,0,Siegfried,Stohr,Italian,,1981,13,Italian Grand Prix
 23231,495,194,1.0,20,20,0,Eliseo,Salazar,Chilean,,1981,13,Italian Grand Prix
 23232,495,217,0.0,30,30,0,Ricardo,Zunino,Argentine,,1981,13,Italian Grand Prix
@@ -12700,7 +12700,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 23264,496,110,1.0,18,18,0,Andrea,de Cesaris,Italian,,1981,14,Canadian Grand Prix
 23265,496,214,0.0,35,35,0,Kevin,Cogan,American,,1981,14,Canadian Grand Prix
 23266,496,206,0.0,23,23,0,Derek,Daly,Irish,,1981,14,Canadian Grand Prix
-23267,496,215,0.0,34,34,0,Miguel Ángel,Guerra,Argentine,,1981,14,Canadian Grand Prix
+23267,496,215,0.0,34,34,0,Miguel Þngel,Guerra,Argentine,,1981,14,Canadian Grand Prix
 23268,496,216,0.0,24,24,0,Siegfried,Stohr,Italian,,1981,14,Canadian Grand Prix
 23269,496,194,1.0,21,21,0,Eliseo,Salazar,Chilean,,1981,14,Canadian Grand Prix
 23270,496,217,0.0,30,30,0,Ricardo,Zunino,Argentine,,1981,14,Canadian Grand Prix
@@ -12739,7 +12739,7 @@ driverStandingsId,raceId,driverId,points,position,positionText,wins,forename,sur
 23303,497,110,1.0,18,18,0,Andrea,de Cesaris,Italian,,1981,15,Caesars Palace Grand Prix
 23304,497,214,0.0,36,36,0,Kevin,Cogan,American,,1981,15,Caesars Palace Grand Prix
 23305,497,206,0.0,23,23,0,Derek,Daly,Irish,,1981,15,Caesars Palace Grand Prix
-23306,497,215,0.0,35,35,0,Miguel Ángel,Guerra,Argentine,,1981,15,Caesars Palace Grand Prix
+23306,497,215,0.0,35,35,0,Miguel Þngel,Guerra,Argentine,,1981,15,Caesars Palace Grand Prix
 23307,497,216,0.0,24,24,0,Siegfried,Stohr,Italian,,1981,15,Caesars Palace Grand Prix
 23308,497,194,1.0,21,21,0,Eliseo,Salazar,Chilean,,1981,15,Caesars Palace Grand Prix
 23309,497,217,0.0,30,30,0,Ricardo,Zunino,Argentine,,1981,15,Caesars Palace Grand Prix
